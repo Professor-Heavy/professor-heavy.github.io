@@ -23,14 +23,23 @@ email: sourcefilmmakerman@gmail.com
 description: The portfolio of Louis Hall, a Manchester-based game developer.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
-github_username:  professor-heavy
+avatar: assets/images/avatar.jpg
+
+twitter_username: NotAsHeavy
+github_username: professor-heavy
+
+twitter_url: https://twitter.com/NotAsHeavy
+linkedin_url: https://www.linkedin.com/in/louis-hall-392956181/
+github_url: https://github.com/Professor-Heavy
+pinterest_url:
+slack_url:
+dribbble_url:
 
 # Build settings
 remote_theme: chrisbobbe/jekyll-theme-prologue
 plugins:
   - jekyll-feed
-  
+
 collections: [sections]
 
 # Exclude from processing.
